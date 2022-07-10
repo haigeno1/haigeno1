@@ -1,5 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
-<img src="https://img.shields.io/badge/gitHub-代码让世界更美好-brightgreen" />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> <img src="https://img.shields.io/badge/gitHub-代码让世界更美好-brightgreen" width="20%"> </img>Hey! I'm here
 ### I'm **Fang Sibo**, a frontend developer from China Hangzhou.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=haigeno1&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/haigeno1)
 
