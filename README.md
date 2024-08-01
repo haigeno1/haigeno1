@@ -2,7 +2,7 @@
 ### I'm a frontend developer from China.
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=haigeno1&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/haigeno1)
 
--   🌏 I come from China Hangzhou
+-   🌏 I come from China Shanghai
 -   🛠 I’m currently working use Vue, React, JavaScript
 -   💬 Ask me about anything related Program
 -   🔭 Doing something about open source
